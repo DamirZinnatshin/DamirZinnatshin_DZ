@@ -1,0 +1,15 @@
+C:\Дамир\Обучение IT-специалист\Тема 3  - Знакомство с языками программирования\DamirZinnatshin_DZ\Zadaniya\Example001\bin\Debug\net6.0\Example001.exe
+C:\Дамир\Обучение IT-специалист\Тема 3  - Знакомство с языками программирования\DamirZinnatshin_DZ\Zadaniya\Example001\bin\Debug\net6.0\Example001.deps.json
+C:\Дамир\Обучение IT-специалист\Тема 3  - Знакомство с языками программирования\DamirZinnatshin_DZ\Zadaniya\Example001\bin\Debug\net6.0\Example001.runtimeconfig.json
+C:\Дамир\Обучение IT-специалист\Тема 3  - Знакомство с языками программирования\DamirZinnatshin_DZ\Zadaniya\Example001\bin\Debug\net6.0\Example001.dll
+C:\Дамир\Обучение IT-специалист\Тема 3  - Знакомство с языками программирования\DamirZinnatshin_DZ\Zadaniya\Example001\bin\Debug\net6.0\Example001.pdb
+C:\Дамир\Обучение IT-специалист\Тема 3  - Знакомство с языками программирования\DamirZinnatshin_DZ\Zadaniya\Example001\obj\Debug\net6.0\Example001.csproj.AssemblyReference.cache
+C:\Дамир\Обучение IT-специалист\Тема 3  - Знакомство с языками программирования\DamirZinnatshin_DZ\Zadaniya\Example001\obj\Debug\net6.0\Example001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Дамир\Обучение IT-специалист\Тема 3  - Знакомство с языками программирования\DamirZinnatshin_DZ\Zadaniya\Example001\obj\Debug\net6.0\Example001.AssemblyInfoInputs.cache
+C:\Дамир\Обучение IT-специалист\Тема 3  - Знакомство с языками программирования\DamirZinnatshin_DZ\Zadaniya\Example001\obj\Debug\net6.0\Example001.AssemblyInfo.cs
+C:\Дамир\Обучение IT-специалист\Тема 3  - Знакомство с языками программирования\DamirZinnatshin_DZ\Zadaniya\Example001\obj\Debug\net6.0\Example001.csproj.CoreCompileInputs.cache
+C:\Дамир\Обучение IT-специалист\Тема 3  - Знакомство с языками программирования\DamirZinnatshin_DZ\Zadaniya\Example001\obj\Debug\net6.0\Example001.dll
+C:\Дамир\Обучение IT-специалист\Тема 3  - Знакомство с языками программирования\DamirZinnatshin_DZ\Zadaniya\Example001\obj\Debug\net6.0\refint\Example001.dll
+C:\Дамир\Обучение IT-специалист\Тема 3  - Знакомство с языками программирования\DamirZinnatshin_DZ\Zadaniya\Example001\obj\Debug\net6.0\Example001.pdb
+C:\Дамир\Обучение IT-специалист\Тема 3  - Знакомство с языками программирования\DamirZinnatshin_DZ\Zadaniya\Example001\obj\Debug\net6.0\Example001.genruntimeconfig.cache
+C:\Дамир\Обучение IT-специалист\Тема 3  - Знакомство с языками программирования\DamirZinnatshin_DZ\Zadaniya\Example001\obj\Debug\net6.0\ref\Example001.dll
