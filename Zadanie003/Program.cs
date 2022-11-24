@@ -7,6 +7,8 @@
 // 12821 -> да
 // 23432 -> да
 
+
+// 1-ый вариант
 // Console.WriteLine("Введите пятизначное число");
 // string str = Console.ReadLine();
 // int A0 = str [0];
@@ -21,6 +23,26 @@
 // {
 //     Console.WriteLine("Число НЕ является палиндромом");
 // }
+
+// 2-ой вариант
+// Console.WriteLine("Введите пятизначное число");
+// string str = Console.ReadLine();
+// if (str.Length == 5)
+// {
+// if (str[0] == str[4] && str[1] == str[3])
+// {
+//     Console.WriteLine($"{str} - палиндром");
+// }
+// else
+// {
+//     Console.WriteLine($"{str} - не палиндром");
+// }
+// }
+// else
+// {
+//     Console.WriteLine("Ввели не пятизначное число");
+// }
+
 
 
 
